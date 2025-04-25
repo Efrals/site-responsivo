@@ -4,7 +4,7 @@ Este projeto front-end demonstra um layout informativo e atrativo, **NutriSaber*
 
 ## 📷 Preview
 
-<img src="assets/images/PreviewNutriSaber.gif" alt="Preview do site NutriSaber" width="600"/>
+<img src="assets/images/PreviewNutriSaber.gif" alt="Preview do site NutriSaber" width="800"/>
 
 ## 🚀 Funcionalidades
 
