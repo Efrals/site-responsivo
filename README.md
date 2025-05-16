@@ -37,6 +37,4 @@ OU
    git clone https://github.com/seu-usuario/nutrisaber.git
    ```
 
-2. Navegue até a pasta do projeto
-
-3. Abra o arquivo index.html no navegador.
+2. Acesse a pasta do projeto usando a extensão Live Server no VS Code (Não funciona somente abrindo o arquivo `index.html` no navegador).
